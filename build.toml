@@ -1,0 +1,15 @@
+[project]
+id = "gopher"
+version = "1.0.0"
+
+[minecraft]
+version = "26.3"
+loader = "0.20.1"
+fabric_api = "0.165.0+26.3"
+gocraft_jar = "../gocraft/build/libs/gocraft-0.1.0.jar"
+
+[go]
+version = "system"
+# No targets listed means this machine's platform only. To ship to everyone, list them all; anything
+# other than this machine's platform is cross-compiled with a Zig that go.jar downloads:
+# targets = ["linux-amd64", "linux-arm64", "windows-amd64", "windows-arm64", "darwin-amd64", "darwin-arm64"]

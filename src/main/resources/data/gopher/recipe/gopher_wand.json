@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B", "S "],
+  "key": { "B": "minecraft:light_blue_dye", "S": "minecraft:stick" },
+  "result": { "id": "gopher:gopher_wand", "count": 1 }
+}
