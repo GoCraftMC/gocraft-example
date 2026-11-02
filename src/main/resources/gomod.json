@@ -4,7 +4,7 @@
   "name": "Gopher",
   "description": "A tour of GoCraft: items, blocks, commands, events, hooks, goroutines and a recipe, all in Go.",
   "authors": ["The GoCraft Authors"],
-  "license": "BSD-4-Clause",
+  "license": "BSD-3-Clause",
   "icon": "assets/gopher/icon.png",
   "environment": "*",
   "depends": {

@@ -16,4 +16,4 @@ for the mod jar, so clone all three next to each other and run `./gradlew build`
 
 ## License
 
-BSD-4-Clause. This product includes software developed by The GoCraft Authors.
+BSD-3-Clause.
